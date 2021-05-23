@@ -1,13 +1,12 @@
 ## Frank Mckenna
 
-I am a highly motivated, creative Full Stack Junior Developer, with a high drive to create great things and make the world a better place. I have completed various online courses and from them built my portfolio of small projects over the lockdown period. I have become hugely passionate about writing code that is clean, tested,  reusable and following best coding practices. I am currently studying at Makers Academy, a developer bootcamp.
+I am a highly motivated, creative Full Stack Junior Developer, with a high drive to create great things and make the world a better place. I have completed various online coding courses and took what i learnt from them to built my portfolio of small projects over the lockdown period. I have become hugely passionate about writing code that is clean, tested,  reusable and following best coding practices. I am currently studying at Makers Academy, a developer bootcamp.
 
 ## Projects
 
 | Name                         | Description                           | Tech/tools        |
 | ---------------------------- | ------------------------------------- | ----------------- |
-| Personal Portfolio          | A personal portfolio of small projects | Javascript,
-                                                                         CSS, HTML         |
+| Personal Portfolio          | A personal portfolio of small projects | Javascript, CSS, HTML         |
 
 ## Work Experience
 
