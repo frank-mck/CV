@@ -1,5 +1,6 @@
 ## Frank Mckenna
 
+[Projects] | [Work Experience] | [Skills] | [Education]
 
 I am a highly motivated, creative Full Stack Junior Developer, with a high drive to create great things and make the world a better place. I have completed various online coding courses and took what i learnt from them to built my portfolio of small projects over the lockdown period. I have become hugely passionate about writing code that is clean, tested,  reusable and following best coding practices. I am currently studying at Makers Academy, a developer bootcamp.
 
@@ -45,7 +46,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (24th May - )
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
