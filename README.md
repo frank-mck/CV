@@ -2,7 +2,9 @@
 
 [Projects](#Projects) | [Work Experience](#Projects) | [Skills](#Skills) | [Education](#Education)
 
-I am a highly motivated, creative Full Stack Junior Developer, with a high drive to create great things and make the world a better place. I have completed various online coding courses and took what i learnt from them to built my portfolio of small projects over the lockdown period. I have become hugely passionate about writing code that is clean, tested,  reusable and following best coding practices. I am currently studying at Makers Academy, a developer bootcamp.
+I am a highly motivated, creative Full Stack Junior Developer, with a high drive to create great things and make the world a better place. 
+
+I have completed various online coding courses and took what i learnt from them to built my portfolio of small projects over the lockdown period. I have become hugely passionate about writing code that is clean, tested,  reusable and following best coding practices. I am currently studying at Makers Academy, a developer bootcamp.
 
 ## Projects
 
