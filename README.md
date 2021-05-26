@@ -4,7 +4,7 @@
 
 I am a highly motivated, creative Full Stack Junior Developer, with a high drive to create great things and make the world a better place. 
 
-I have completed various online coding courses and took what i learnt from them to built my portfolio of small projects over the lockdown period. I have become hugely passionate about writing code that is clean, tested,  reusable and following best coding practices. I am currently studying at Makers Academy, a developer bootcamp.
+I have completed various online coding courses and took what i learnt from them to built my portfolio of small projects over the lockdown period. I have become hugely passionate about writing code that is clean, tested,  reusable and following best coding practices. I am currently studying at [Makers Academy](#https://makers.tech/?utm_source=adwords&utm_medium=ppc&utm_campaign=London&utm_term=computer%20coding%20classes&hsa_acc=7172166340&hsa_cam=12303569189&hsa_grp=116824919439&hsa_ad=497603612544&hsa_src=g&hsa_tgt=kwd-299824953052&hsa_kw=computer%20coding%20classes&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw47eFBhA9EiwAy8kzNLuBtgtSg4uzQJNkJ-AUPi3C4xCOAKJzWqBjvuCdFpYuJ2Mkk0TzkxoC4egQAvD_BwE), a developer bootcamp.
 
 ## Projects
 
