@@ -4,7 +4,7 @@
 
 I am a highly motivated, creative Full Stack Junior Developer, with a high drive to create great things and make the world a better place. 
 
-I have completed various online coding courses and took what i learnt from them to built my portfolio of small projects over the lockdown period. I have become hugely passionate about writing code that is clean, tested,  reusable and following best coding practices. I am currently studying at [Makers Academy](https://makers.tech/?utm_source=adwords&utm_medium=ppc&utm_campaign=London&utm_term=computer%20coding%20classes&hsa_acc=7172166340&hsa_cam=12303569189&hsa_grp=116824919439&hsa_ad=497603612544&hsa_src=g&hsa_tgt=kwd-299824953052&hsa_kw=computer%20coding%20classes&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw47eFBhA9EiwAy8kzNLuBtgtSg4uzQJNkJ-AUPi3C4xCOAKJzWqBjvuCdFpYuJ2Mkk0TzkxoC4egQAvD_BwE), a developer bootcamp.
+I have completed various online coding courses and took what i learnt from them to built my portfolio of small projects over the lockdown period. I have become hugely passionate about writing code that is clean, tested,  reusable and following best coding practices. I am currently studying at [Makers Academy](https://makers.tech), a developer bootcamp.
 
 ## Projects
 
@@ -24,11 +24,14 @@ In this role I cared for adults with learning disabilities and a range of needs 
 
 ## Skills
 
-Resilience - Being able to constantly fail and get back up with the willingness to improve and the confidence to know that I can eventually solve my problem, is a skill that I know is going to serve me well as a developer.
+**Adaptable** - Working in an environment that aims to develop adults with learning disabilities to become independent, confident and successful, takes a lot of commpassion, patience, understanding and creativity. I needed to adapt to everyones individual needs and communication style. Some could only communicate via sign language which meant i had to learn some Makaton, some would communicate through mimicking. 
+Because of the range of needs for every adult, the sessions i would run would need to be well thought out as to engage everyone and have everyone communicating with their peers whilst learning and having fun.
+
+**Resilience** - Being able to constantly fail and get back up with the willingness to improve and the confidence to know that I can eventually solve my problem, is a skill that I know is going to serve me well as a developer.
 I did not believe i could become a successful developer when i first started coding. My confidence was low, i was constantly confused and I didnt enjoy coding most of the time. 
 I knew this would change, and all i had to do was trust the process, and eventually i would become confident. This did happen. Now everyday i am improving and becoming a stronger developer with the confidence to know that i can become whatever i set my mind to.
 
-Self motivator - During lockdown, i had a lot of time that i wanted to use productively. I enrolled in 100 DaysOfCode on twitter to better my programming skills as a challenge. Whilst coding for 100 days in a row, i built many projects and a portfolio, I completed FCC Web Development Curriculum and reached Kata 5 on Codewars.
+**Self motivator** - During lockdown, i had a lot of time that i wanted to use productively. I enrolled in 100 DaysOfCode challenge on twitter, to better my programming skills and increase discipline. Whilst coding for 100 days in a row, i built many projects and a portfolio, I completed FCC Web Development Curriculum and reached Kata 5 on Codewars.
  
 
 #### This Skill
