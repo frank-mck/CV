@@ -54,25 +54,24 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (24th May - )
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
+#### Makers Academy (24th May - 16th August )
+- Built applications using a Test Driven approach, using best practice coding techniques.
+- Frequently collaborated in a driver, navigator style in order to problemsolve effeciently, requiring teamwork and communication
+- Followed the Model, View, Controller software design pattern.
+- Regularly practiced the four princliples of Object Oriented Programming (encapsulation, abstraction, inheritance, poloymorphism)
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, CSS, PSQL
+- RSpec, Jasmine, Capaybara, Developed my own testing framework
 
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+Prior to joining makers, i used the spare time a had while in lockdown to learn HTML, CSS, and javascript.
+I completed many popular courses on the subjects, like FreeCodeCamps Web Design curriculum and JS algorithim and Data Scructure course.
 
-## Hobbies
+Some of the principles i learnt were Web design, BEM Methodology, Semantic Markup and DRY code.
 
-Any cool stuff that makes you a super part of a software development team
+## Interests
+
+Meditation | Hiking | Cycling | Self improvement
+
