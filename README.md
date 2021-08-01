@@ -27,14 +27,14 @@ In this role I cared for adults with learning disabilities and a range of needs 
 
 ## Skills
 
-**Adaptable** - Working in an environment that aims to develop adults with learning disabilities to become independent, confident and successful, takes a lot of compassion, patience, understanding and creativity. I needed to adapt to everyone's individual needs and communication style. Some could only communicate via sign language which meant i had to learn some Makaton, some would communicate through mimicking. 
+- **Adaptable** - Working in an environment that aims to develop adults with learning disabilities to become independent, confident and successful, takes a lot of compassion, patience, understanding and creativity. I needed to adapt to everyone's individual needs and communication style. Some could only communicate via sign language which meant i had to learn some Makaton, some would communicate through mimicking. 
 Because of the range of needs for every adult, the sessions I would run would need to be well thought out as to engage everyone and have everyone communicating with their peers whilst learning and having fun.
 
-**Resilience** - Being able to constantly fail and get back up with the willingness to improve and the confidence to know that I can eventually solve my problem, is a skill that I know is going to serve me well as a developer.
+- **Resilience** - Being able to constantly fail and get back up with the willingness to improve and the confidence to know that I can eventually solve my problem, is a skill that I know is going to serve me well as a developer.
 I did not believe I could become a successful developer when I first started coding. My confidence was low, I was constantly confused and I didnt enjoy coding most of the time. 
 I knew this would change, and all I had to do was trust the process, and eventually I would become confident. This did happen. Now everyday I am improving and becoming a stronger developer with the confidence to know that I can become whatever i set my mind to.
 
-**Self motivator** - During lockdown, I had a lot of time that I wanted to use productively. I enrolled in 100 DaysOfCode challenge on twitter, to better my programming skills and increase discipline. Whilst coding for 100 days in a row, I built many projects and a portfolio, I completed FCC Web Development Curriculum and reached Kata 5 on Codewars.
+- **Self motivator** - During lockdown, I had a lot of time that I wanted to use productively. I enrolled in 100 DaysOfCode challenge on twitter, to better my programming skills and increase discipline. Whilst coding for 100 days in a row, I built many projects and a portfolio, I completed FCC Web Development Curriculum and reached Kata 5 on Codewars.
 
  
 
