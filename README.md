@@ -11,6 +11,8 @@ I have completed various online coding courses and took what i learnt from them 
 | Name                         | Description                           | Tech/tools        |
 | ---------------------------- | ------------------------------------- | ----------------- |
 | Personal Portfolio          | A personal portfolio of small projects | Javascript, CSS, HTML         |
+| Acebook          | Facebook clone. Users can sign up, signin, create a post, like, comment and delete a post  | Ruby on rails, Ajax, Jquery, CSS, HTML         |
+| Makers Airbnb        | Airbnb clone. Users can signup, signin, add a space, check for available spaces and book a space | Ruby, Sinatra Application, CSS, HTML         |
 
 ## Work Experience
 
