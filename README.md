@@ -36,17 +36,6 @@ I knew this would change, and all I had to do was trust the process, and eventua
 
 - **Self motivator** - During lockdown, I had a lot of time that I wanted to use productively. I enrolled in 100 DaysOfCode challenge on twitter, to better my programming skills and increase discipline. Whilst coding for 100 days in a row, I built many projects and a portfolio, I completed FCC Web Development Curriculum and reached Kata 5 on Codewars.
 
- 
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 ## Education
 
 #### Makers Academy (24th May - 16th August )
@@ -59,9 +48,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - RSpec, Jasmine, Capybara, Developed my own testing framework
 
 
-#### Any other qualifications
-
-Prior to joining makers, I used the spare time while in lockdown to learn HTML, CSS, and javascript.
+Prior to joining Makers, I used the spare time i had while in lockdown to learn HTML, CSS, and javascript.
 I completed many popular courses on the subjects, like FreeCodeCamps Web Design curriculum and JS algorithm and Data Structure course.
 
 Some of the principles I learnt were Web design, BEM Methodology, Semantic Markup and DRY code.
