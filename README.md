@@ -11,8 +11,9 @@ I have completed various online coding courses and took what i learnt from them 
 | Name                         | Description                           | Tech/tools        |
 | ---------------------------- | ------------------------------------- | ----------------- |
 | Personal Portfolio          | A personal portfolio of small projects | Javascript, CSS, HTML         |
-| Acebook          | Facebook clone. Users can sign up, signin, create a post, like, comment and delete a post  | Ruby on rails, Ajax, Jquery, CSS, HTML         |
-| Makers Airbnb        | Airbnb clone. Users can signup, signin, add a space, check for available spaces and book a space | Ruby, Sinatra Application, CSS, HTML         |
+| Acebook          | Facebook clone. Users can sign up, signin, create a post, like, comment and delete a post  | Ruby on rails, Ajax, Jquery, CSS, HTML, RSpec, Capybara        |
+| Makers Airbnb        | Airbnb clone. Users can signup, signin, add a space, check for available spaces and book a space | Ruby, Sinatra Application, CSS, HTML, RSpec, Capybara        |
+| Bowling Scorecard        | An interactive bowling score card that dynamically updates using DOM manipulation. Once the game has ended, a user can start a new game | Javascript, CSS, HTML, OOP, Jasmine         |
 
 ## Work Experience
 
