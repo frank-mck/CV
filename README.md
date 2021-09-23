@@ -2,9 +2,12 @@
 
 [Projects](#Projects) | [Work Experience](#Projects) | [Skills](#Skills) | [Education](#Education)
 
-I am a highly motivated, creative Full Stack Junior Developer, with a high drive to create great things and make the world a better place. 
+A full-stack junior developer specialising in the front-end.
+After ten years of playing poker professionally, I wanted a new, more fulfilling challenge, and as a keen problem solver, becoming a software developer really appealed to me. 
 
-I have completed various online coding courses and took what i learnt from them to built my portfolio of small projects over the lockdown period. I have become hugely passionate about writing code that is clean, tested,  reusable and following best coding practices. I am currently studying at [Makers Academy](https://makers.tech), a developer bootcamp.
+I enjoy working on my creative side to develop dynamic, user-centric web applications while writing clean, tested and reusable code. 
+As a Makers Graduate, I am keen to find my first professional role where I can use my problem-solving skills and passion for tech to continue to build products that have a positive impact on the world.
+
 
 ## Projects
 
@@ -23,6 +26,22 @@ Community Carer
 - Carer for adults with learning disabilities with a range of needs. Helping them to develop their independence and provide them with life skills in line with their individual progression plan and objectives.
 
 In this role I cared for adults with learning disabilities and a range of needs individually and as part of a team. I helped them to develop their independence and provide them with life skills in line with their individual progression plans. Through effective communication, I was able to build trust and rapport with both customers and colleagues. I was also required to resolve customer issues using a wide range of skills such as; empathy, influence and leadership.
+
+
+- **Self-employed** - Professional poker player (Live and Online) Jan 2011 - Apr 2021
+
+Poker was a huge passion of mine and it taught me many skills that I can apply to my new career as a software developer.
+Strict bankroll management.
+
+Here I'll explain some of the things I did day to day as a poker player.
+
+I had a strict daily tournament schedule to keep myself disciplined to play the right games and proactively managed my own time and bankroll.
+
+I consistently adapted to the ever-changing nature of poker to stay ahead of the game by adjusting my strategy when needed. This meant studying my own game to plug leaks and work on the mental side of the game to ensure I was sharp when it came to playing tournaments.
+
+I won many online and live tournaments, most notably my first major online poker tournament win in 2014, in a MINIFTOPS Poker Series event.
+
+Skills used: Discipline, Analytical, Problem-Solving, Adaptable, Management, Psychology, and Resilience.
 
 
 ## Skills
