@@ -28,7 +28,7 @@ Community Carer
 In this role I cared for adults with learning disabilities and a range of needs individually and as part of a team. I helped them to develop their independence and provide them with life skills in line with their individual progression plans. Through effective communication, I was able to build trust and rapport with both customers and colleagues. I was also required to resolve customer issues using a wide range of skills such as; empathy, influence and leadership.
 
 
-- **Self-employed** - Professional poker player (Live and Online) Jan 2011 - Apr 2021
+**Self-employed** - Professional poker player (Live and Online) Jan 2011 - Apr 2021
 
 Poker was a huge passion of mine and it taught me many skills that I can apply to my new career as a software developer.
 Strict bankroll management.
