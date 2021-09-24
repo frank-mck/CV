@@ -24,9 +24,9 @@ As a Makers Graduate, I am keen to find my first professional role where I can u
 **ECL The Care & Wellbeing Company** (Jul 2019 - Feb 2021)  
 Community Carer
 
-- Carer for adults with learning disabilities with a range of needs. Helping them to develop their independence and provide them with life skills in line with their individual progression plan and objectives.
+Carer for adults with learning disabilities with a range of needs. Helping them to develop their independence and provide them with life skills in line with their individual progression plan and objectives.
 
-In this role I cared for adults with learning disabilities and a range of needs individually and as part of a team. I helped them to develop their independence and provide them with life skills in line with their individual progression plans. Through effective communication, I was able to build trust and rapport with both customers and colleagues. I was also required to resolve customer issues using a wide range of skills such as; empathy, influence and leadership.
+Through effective communication, I was able to build trust and rapport with both customers and colleagues. I was also required to resolve customer issues using a wide range of skills such as; empathy, influence and leadership.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
