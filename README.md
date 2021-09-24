@@ -32,17 +32,17 @@ In this role I cared for adults with learning disabilities and a range of needs 
 **Self-employed** - Professional poker player (Live and Online) Jan 2011 - Apr 2021
 
 Poker was a huge passion of mine and it taught me many skills that I can apply to my new career as a software developer.
-Strict bankroll management.
+- Dedication.
+- Analytical skills and logical reasoning.
+- Discipline
+- Being self-driven
+- Resilience
+- Problem-Solving
+- Concentration over long periods.
+- Adaptability.
+- Ability to learn from mistakes.
 
-Here I'll explain some of the things I did day to day as a poker player.
-
-I had a strict daily tournament schedule to keep myself disciplined to play the right games and proactively managed my own time and bankroll.
-
-I consistently adapted to the ever-changing nature of poker to stay ahead of the game by adjusting my strategy when needed. This meant studying my own game to plug leaks and work on the mental side of the game to ensure I was sharp when it came to playing tournaments.
-
-I won many online and live tournaments, most notably my first major online poker tournament win in 2014, in a MINIFTOPS Poker Series event.
-
-Skills used: Discipline, Analytical, Problem-Solving, Adaptable, Management, Psychology, and Resilience.
+I won many online and live tournaments n my career, most notably my first major online poker tournament win in 2014, in a MINIFTOPS Poker Series event.
 
 
 ## Skills
