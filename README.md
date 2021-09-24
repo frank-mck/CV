@@ -18,6 +18,7 @@ As a Makers Graduate, I am keen to find my first professional role where I can u
 | [Acebook](https://github.com/frank-mck/acebook-rails)          | Facebook clone. Users can sign up, signin, create a post, like, comment and delete a post  | Ruby on rails, Ajax, Jquery, CSS, HTML, RSpec, Capybara        |
 | [Bowling Scorecard](https://github.com/frank-mck/bowling-challenge)        | An interactive bowling score card that dynamically updates using DOM manipulation. Once the game has ended, a user can start a new game | Javascript, CSS, HTML, Jasmine         |
 |    [Loan Calculator](https://github.com/frank-mck/loan-calculator-ts-react)  |  A loan calculator that calculates an interest rate and monthly repayments on the fly.   |  TypeScript, React, SASS               |
+
 ## Work Experience
 
 **ECL The Care & Wellbeing Company** (Jul 2019 - Feb 2021)  
@@ -27,7 +28,7 @@ Community Carer
 
 In this role I cared for adults with learning disabilities and a range of needs individually and as part of a team. I helped them to develop their independence and provide them with life skills in line with their individual progression plans. Through effective communication, I was able to build trust and rapport with both customers and colleagues. I was also required to resolve customer issues using a wide range of skills such as; empathy, influence and leadership.
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Self-employed** - Professional poker player (Live and Online) Jan 2011 - Apr 2021
 
