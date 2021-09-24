@@ -80,7 +80,7 @@ Some of the principles I learnt were Web design, BEM Methodology, Semantic Marku
 
 ## Interests
 
-Hiking: I completed The West Highland way hike and climbed Ben Nevis in 2017.  Meditation: I regularly practise Vipassana meditation.
-Cycling: I cycled the Coast 2 Coast route with friends.
-Coding: Continuously building and learning with new technologies.
+- Hiking: I completed The West Highland way hike and climbed Ben Nevis in 2017.  Meditation: I regularly practise Vipassana meditation.
+- Cycling: I cycled the Coast 2 Coast route with friends.
+- Coding: Continuously building and learning with new technologies.
 
