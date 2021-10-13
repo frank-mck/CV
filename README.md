@@ -50,9 +50,7 @@ I won many online and live tournaments n my career, most notably my first major 
 
 - **Quick Study** - Able to take on new technologies and learn new practices rapidly and efficiently. I actively sought out challenges during the Makers Academy course, including producing our two week final project written in MongoDb, Express, React and Node.js with no prior experience.
 
-- **Adaptable** - Working in an environment that aims to develop the adults with learning disabilities, to become independent, confident and successful.
-This job allowed me to practise my compassion, patience, understanding and creativity. I needed to adapt to each customer need and communication style as some could only communicate via sign language or through mimicking, which meant I had to learn Makaton.
-Because of the range of needs, the sessions I ran would need to be thought out to engage customers and have customers communicating with their peers whilst learning and having fun.
+- **Adaptable** - Being adaptable during Makers was essential to my success, the course material changes quickly, and after getting comfortable with the material and concepts, new ones are thrown at you, and the cycle of discomfort continues. Now that I have been through this experience and survived, I can now say I look forward to this discomfort and the challenges as it's an opportunity to learn and grow to become a better developer.
 
 - **Resilience** - I have shown a lot of resilience whilst self-studying as a keen poker player. I failed consistently, but I never allowed the failures to get in the way of success. I learnt from those mistakes and kept moving forward.
 I have also shown resilience when I first started to teach myself to code.
