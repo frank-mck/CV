@@ -13,7 +13,7 @@ As a Makers Graduate, I am keen to find my first professional role where I can u
 
 | Name                         | Description                           | Tech/tools        |
 | ---------------------------- | ------------------------------------- | ----------------- |
-| [Codify](https://github.com/frank-mck/productivity-app-ts) | A productivity app that helps users organise their tasks to become more effcient.(on going solo project) | TypeScript, React, Node.js, Express, MongoDB |
+| [Codify](https://github.com/frank-mck/productivity-app-ts) | A productivity app that helps users organise their tasks to become more efficient.(on going solo project) | TypeScript, React, Node.js, Express, MongoDB |
 | [Pin My Hike](https://github.com/frank-mck/pin-my-hike)        | A hiking app that allows users to pin and view popular global hiking locations. As a group, we decided to teach ourselves a new tech stack for our final project at Makers, the MERN stack using the Google Maps API. | JavaScript, React, Node, MongoDB, Express, SASS        |
 | [Personal Portfolio](https://frank-mckenna.herokuapp.com/)       | A personal portfolio of small projects | Javascript, CSS, HTML         |
 | [Acebook](https://github.com/frank-mck/acebook-rails)          | Facebook clone. Users can sign up, signin, create a post, like, comment and delete a post  | Ruby on rails, Ajax, Jquery, CSS, HTML, RSpec, Capybara        |
