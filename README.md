@@ -59,7 +59,7 @@ I found it extremely hard at first, and almost gave up several times, but my pas
 
 - **Self motivator** - During lockdown, I had a lot of time that I wanted to use productively. I enrolled in 100 DaysOfCode challenge on twitter, to better my programming skills and increase discipline. Whilst coding for 100 days in a row, I built many projects and a portfolio, I completed FCC Web Development Curriculum and reached Kata 5 on Codewars.
 
-- **Enthusiastic** - I am highly motivated, and unafraid of challenge. I do not shy away from difficult or time-consuming tasks.
+- **Enthusiastic** - I am highly passionate about software developement, and unafraid of challenges. I do not shy away from difficult or time-consuming tasks.
 
 ## Education
 
