@@ -2,7 +2,7 @@
 
 [Projects](#Projects) | [Work Experience](#Projects) | [Skills](#Skills) | [Education](#Education)
 
-A full-stack junior developer specialising in the front-end.
+A full-stack junior developer specialising in the front-end. My background combines creativity with a high level of logical reasoning and I love bringing these traits into my coding. 
 After ten years of playing poker professionally, I wanted a new, more fulfilling challenge, and as a keen problem solver, becoming a software developer really appealed to me. 
 
 I enjoy working on my creative side to develop dynamic, user-centric web applications while writing clean, tested and reusable code. 
@@ -13,6 +13,7 @@ As a Makers Graduate, I am keen to find my first professional role where I can u
 
 | Name                         | Description                           | Tech/tools        |
 | ---------------------------- | ------------------------------------- | ----------------- |
+| [Instagram](https://github.com/frank-mck/instagram) | Instagram clone that lets users sign up with Google Authentication, make posts with photos, comment and like. | React, Firebase, Next.js, NextAuth, Recoil, Tailwind CSS |
 | [Codify](https://github.com/frank-mck/productivity-app-ts) | A full stack productivity app that helps users organise their tasks to become more efficient.(on going solo project) | TypeScript, React, Node.js, Express, MongoDB |
 | [Pin My Hike](https://github.com/frank-mck/pin-my-hike)        | A hiking app that allows users to pin and view popular global hiking locations. As a group, we decided to teach ourselves a new tech stack for our final project at Makers, the MERN stack using the Google Maps API. | JavaScript, React, Node, MongoDB, Express, SASS        |
 | [Personal Portfolio](https://frank-mckenna.herokuapp.com/)       | A personal portfolio of small projects | Javascript, CSS, HTML         |
@@ -33,19 +34,15 @@ Through effective communication, I was able to build trust and rapport with both
 
 **Self-employed** - Professional poker player (Live and Online) Jan 2011 - Apr 2021
 
-Poker was a huge passion of mine and it taught me many skills that I can apply to my new career as a software developer.
-- Dedication.
+Poker was a huge passion of mine which taught me many skills that I can apply to my new career as a software developer.
+
+- Exercised discipline and excellent risk management by successfully navigating tournament poker.
+- Demonstrated an ability to adapt to an ever-changing environment.
 - Analytical skills and logical reasoning.
-- Discipline
-- Being self-driven
-- Resilience
-- Problem-Solving
-- Concentration over long periods.
-- Adaptability.
-- Ability to learn from mistakes.
-
-I won many online and live tournaments n my career, most notably my first major online poker tournament win in 2014, in a MINIFTOPS Poker Series event.
-
+- I have assessed complex situations objectively and constantly made time-sensitive, high-pressure, strategic decisions without allowing emotions to affect these    decisions.
+- Data analysis - I tracked poker hands I played and viewed this data to make improvements where needed.
+- Used mathematical probability and pattern recognition.
+- Acquired excellent communication skills through speaking with fellow professionals about complex poker hands.
 
 ## Skills
 
@@ -62,6 +59,15 @@ I found it extremely hard at first, and almost gave up several times, but my pas
 - **Enthusiastic** - I am highly passionate about software developement, and unafraid of challenges. I do not shy away from difficult or time-consuming tasks.
 
 ## Education
+
+#### Hatchways Assessment platform for developers - Feb 2022 - Mar 2022, Remote
+
+A platform that evaluates a candidate's soft/hard skills and gives tailored feedback on how to improve.
+
+- Passed the front-end assessment.
+- Passed the project interview stage with top marks on the front-end.
+- React, Redux, PSQL, Node.js
+
 
 #### Makers Academy, Remote - May 2021 - Sep 2021, Remote
 A 16-week intensive development Bootcamp, focusing on:
