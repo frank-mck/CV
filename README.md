@@ -3,7 +3,6 @@
 [Projects](#Projects) | [Work Experience](#Projects) | [Skills](#Skills) | [Education](#Education)
 
 A full-stack junior developer specialising in the front-end. My background combines creativity with a high level of logical reasoning and I love bringing these traits into my coding. 
-After ten years of playing poker professionally, I wanted a new, more fulfilling challenge, and as a keen problem solver, becoming a software developer really appealed to me. 
 
 I enjoy working on my creative side to develop dynamic, user-centric web applications while writing clean, tested and reusable code. 
 As a Makers Graduate, I am keen to find my first professional role where I can use my problem-solving skills and passion for tech to continue to build products that have a positive impact on the world.
@@ -32,27 +31,14 @@ Through effective communication, I was able to build trust and rapport with both
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Self-employed** - Professional poker player (Live and Online) Jan 2011 - Apr 2021
-
-Poker was a huge passion of mine which taught me many skills that I can apply to my new career as a software developer.
-
-- Exercised discipline and excellent risk management by successfully navigating tournament poker.
-- Demonstrated an ability to adapt to an ever-changing environment.
-- Analytical skills and logical reasoning.
-- I have assessed complex situations objectively and constantly made time-sensitive, high-pressure, strategic decisions without allowing emotions to affect these    decisions.
-- Data analysis - I tracked poker hands I played and viewed this data to make improvements where needed.
-- Used mathematical probability and pattern recognition.
-- Acquired excellent communication skills through speaking with fellow professionals about complex poker hands.
-
 ## Skills
 
 - **Quick Study** - Able to take on new technologies and learn new practices rapidly and efficiently. I actively sought out challenges during the Makers Academy course, including producing our two week final project written in MongoDb, Express, React and Node.js with no prior experience.
 
 - **Adaptable** - Being adaptable during Makers was essential to my success, the course material changes quickly, and after getting comfortable with the material and concepts, new ones are thrown at you, and the cycle of discomfort continues. Now that I have been through this experience and survived, I can now say I look forward to this discomfort and the challenges as it's an opportunity to learn and grow to become a better developer.
 
-- **Resilience** - I have shown a lot of resilience whilst self-studying as a keen poker player. I failed consistently, but I never allowed the failures to get in the way of success. I learnt from those mistakes and kept moving forward.
-I have also shown resilience when I first started to teach myself to code.
-I found it extremely hard at first, and almost gave up several times, but my passion and resilience are what drove me forward. As a result, I have grown from an interested amateur coder into a competent, confident and passionate junior developer.
+- **Resilience** -
+I have shown resilience when I first started to teach myself to code, I found it extremely hard at first, and almost gave up several times, but my passion and resilience are what drove me forward. As a result, I have grown from an interested amateur coder into a competent, confident and passionate junior developer.
 
 - **Self motivator** - During lockdown, I had a lot of time that I wanted to use productively. I enrolled in 100 DaysOfCode challenge on twitter, to better my programming skills and increase discipline. Whilst coding for 100 days in a row, I built many projects and a portfolio, I completed FCC Web Development Curriculum and reached Kata 5 on Codewars.
 
